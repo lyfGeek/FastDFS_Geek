@@ -1,0 +1,5 @@
+server:
+  port: 22100
+geek-fastdfs:
+  # 文件上传临时目录。
+  upload_location: ./
